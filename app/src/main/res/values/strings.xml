@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">information_management</string>
+    <string name="faculty">faculty and admin</string>
+    <string name="emergency">emergency</string>
+    <string name="services">services</string>
+    <string name="message1">filter query</string>
+    <string name="back">back</string>
+    <string name="name">Name:</string>
+    <string name="desig">Designation:</string>
+    <string name="contact">Contact:</string>
+    <string name="email">Email:</string>
+    <string name="address">Address:</string>
+    <string name="Phone1">Phone1:</string>
+    <string name="Phone2">Phone2:</string>
+    <string name="department">department:</string>
+    <string name="add">add</string>
+    <string name="emp">Employee Details:</string>
+</resources>
