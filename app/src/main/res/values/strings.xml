@@ -2,7 +2,7 @@
     <string name="app_name">information_management</string>
     <string name="faculty">faculty and admin</string>
     <string name="emergency">emergency and hostel</string>
-    <string name="services">services</string>
+    <string name="services">services and offices</string>
     <string name="message1">filter query</string>
     <string name="back">back</string>
     <string name="name">Name:</string>
@@ -16,4 +16,5 @@
     <string name="add">add</string>
     <string name="emp">Employee Details:</string>
     <string name="filterMessage1">Show Results By Departments:</string>
+    <string name="empcode">Employee Code:</string>
 </resources>
